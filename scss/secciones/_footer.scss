@@ -1,0 +1,9 @@
+footer{
+    background-color:rgb(242, 8, 191);
+    .text-muted{
+        color: #141619!important;
+    }
+    .border-bottom{
+        border-bottom: var(--bs-border-width) var(--bs-border-style) #141619!important;
+    }
+}
