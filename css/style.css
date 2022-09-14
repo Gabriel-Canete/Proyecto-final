@@ -27,7 +27,7 @@ nav {
   .main img {
     height: 400px; }
   .main .tamaño_foto {
-    width: 70vw; }
+    width: 60vw; }
   .main .boton-color {
     background-color: #f208bf; }
   .main h1 {
@@ -36,6 +36,8 @@ nav {
     color: #f208bf; }
   .main .colorBoton {
     background-color: #f208bf; }
+  .main span {
+    color: #f208bf; }
 
 /* FOOTER */
 footer {
