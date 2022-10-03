@@ -1,4 +1,2 @@
-node_modules
-scss
-package.json
-package-lock.json
+*.json
+node_modules/
