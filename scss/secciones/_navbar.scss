@@ -11,4 +11,10 @@ nav{
     .fixed-top{
         position: fixed;
     }
+    .negrita{
+        font-weight: 900;
+    }
+    &:hover{
+        font-size: larger;
+    }
 }
